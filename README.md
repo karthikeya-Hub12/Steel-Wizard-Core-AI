@@ -12,8 +12,11 @@ Industrial AI Copilot for Predictive Maintenance, Reliability Engineering, Asset
 
 🚀 https://ai-maintainance-wizard-core.lovable.app
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 3dc52dd (Update README and remove env)
 </div>
 
 ---
