@@ -12,15 +12,7 @@ Industrial AI Copilot for Predictive Maintenance, Reliability Engineering, Asset
 
 🚀 https://ai-maintainance-wizard-core.lovable.app
 
-### 🔗 GitHub Repository
 
-📂 https://github.com/karthikeya-Hub12/ai-maintainance-wizard-core
-
-![React](https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/Language-TypeScript-3178C6?style=for-the-badge)
-![Supabase](https://img.shields.io/badge/Backend-Supabase-green?style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-blue?style=for-the-badge)
-![Lovable](https://img.shields.io/badge/Built%20with-Lovable-purple?style=for-the-badge)
 
 </div>
 
